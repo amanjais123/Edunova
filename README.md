@@ -27,9 +27,7 @@ Edunova is a full-featured EdTech platform designed to help students learn effec
 - Secure authentication and role-based access  
 
 ### ⚙️ Technical Features
-- MERN Stack (MongoDB, Express, React, Node.js)  
-- WebRTC video calling (Simple-Peer)  
-- Socket.IO real-time chat system  
+- MERN Stack (MongoDB, Express, React, Node.js)   
 - Tailwind CSS UI + custom responsive layouts  
 - JWT authentication with cookies  
 - Scalable backend architecture  
@@ -43,8 +41,6 @@ Edunova
 ├── Frontend (React + Tailwind)
 │ ├── Course Builder Page
 │ ├── Authentication Pages
-│ ├── Real-time Chat UI
-│ ├── Video Calling Page
 │ ├── Responsive Navbar and Sidebar
 │ └── Student Dashboard
 │
