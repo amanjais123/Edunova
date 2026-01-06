@@ -8,7 +8,7 @@ Edunova is a full-featured EdTech platform designed to help students learn effec
 
 - **Frontend Repository:** https://github.com/amanjais123/EduNova-frontend.git  
 - **Backend Repository:** https://github.com/amanjais123/EduNova-backend.git
-- - **Live Application:** https://edunova-edtech.vercel.app/
+- **Live Application:** https://edunova-edtech.vercel.app/
 
 ---
 
